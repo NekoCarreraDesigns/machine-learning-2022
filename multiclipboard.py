@@ -31,14 +31,14 @@ if len(sys.argv) == 2:
 
     elif command == 'load':
         key = input('enter a key: ')
-        if key not in data:
+        if key in data:
             clipboard.copy(data[key])
-            print('data copied to list')
+            print('data copied to clipboard')
         else:
             print('key does not exist')
 
     elif command == 'list':
-        print('list')
+        print(data)
     else:
         print('unknown')
 else:

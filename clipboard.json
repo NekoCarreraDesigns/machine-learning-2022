@@ -1,1 +1,1 @@
-{"ya momma": "{\"key\": \"value\"}"}
+{"ya momma": "{\"key\": \"value\"}", "test": "key = input('enter a key: ')"}
