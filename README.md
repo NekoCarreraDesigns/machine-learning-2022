@@ -6,7 +6,7 @@
 
 ## Description
 
-My first attempt at machine learning, be gentle"
+My first attempt at machine learning, be gentle
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ My first attempt at machine learning, be gentle"
 
 ## Installation
 
-` coming soon `
+`coming soon`
 
 ## Usage
 
